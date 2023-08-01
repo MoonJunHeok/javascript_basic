@@ -1,0 +1,40 @@
+.top_list {
+  width: 90vw;
+  /* border: 1px solid red; */
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.input-group {
+  width: 150px;
+  margin-right: 30px;
+  /* border: 1px solid red; */
+  border-radius: 50%;
+
+}
+
+/* .first_items {
+  padding-bottom: 40px;
+} */
+
+.second_items {
+  padding-bottom: 150px;
+}
+
+.reg_button {
+  width: 100px;
+  padding: 10px
+}
+
+.list_table {
+  width: 100%;
+}
+
+.all_drop {
+  margin-right: 30px;
+}
+
+.btn {
+  border-color: rgba(49, 101, 233, 0.8);
+  background-color: rgba(49, 101, 233, 0.8);
+}
